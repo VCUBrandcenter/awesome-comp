@@ -8,11 +8,23 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ### Contents
 
+- [OS UI](#os-ui)
 - [Social](#social)
 	- [PSDs](#social-psds)
 	- [Web](#social-web)
 - [In-Situation](#in-situation)
 	- [Web](#in-situ-web)
+
+## OS UI
+*Photoshop and Sketch Files for different OS's*
+- [iOS 9 PSD](https://assets.adobe.com/link/60584eba-a002-4c8e-45f8-aa465b46aa1d?section=activity_public)
+- [iOS 9 Sketch](https://designcode.io/ios9)
+- [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
+- [Apple Watch Sketch](https://designcode.io/watch)
+- [Apple Watch PSD]()
+- [Android]()
+- [Android Wear]()
+
 
 ## Social
 *A list for social media comps*
@@ -32,6 +44,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## In-situ
 *A list for dropping screens into real situations for comps*
+- [Freethroww](http://www.freethroww.com/) - Mostly PSD freebies of In-situ, ex. iPhone with with hand at bus stop.
+- [In-situ from Invision](http://blog.invisionapp.com/free-iphone-6-mockups/) - More phones in hands
 
 
 ### In-situ Web
@@ -39,3 +53,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
 - [Frame](http://frame.lab25.co.uk/categories) - 8 categories for in-situ screens to be dropped in.
 
+## Sketch UI Design Kits
+*Get a leg up on your designs with these kits*
+- [Now](http://www.invisionapp.com/now)
+- [tethr](http://www.invisionapp.com/tethr)
